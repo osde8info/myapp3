@@ -13,7 +13,7 @@
     <dependency>
       <artifactId>spring-boot-starter</artifactId>
       <groupId>org.springframework.boot</groupId>
-      <version>1.5.14.RELEASE</version>
+      <version>3.1.7</version>
     </dependency>
   </dependencies>
   <build>
